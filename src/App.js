@@ -40,7 +40,7 @@ function App() {
           <Route path="/cadastro" element={<Cadastro />} />
           <Route path="/compra" element={<Compra />} />
           <Route path="/confirmacao" element={<Confirmacao />} />
-          <Route path="/agradecimento" element={<Agradecimento/>}/>
+          <Route path="/agradecimento" element={<Agradecimento/>} />
         </Routes> 
       </div>
       <Footer />
